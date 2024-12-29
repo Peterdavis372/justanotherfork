@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "both"
+included-patches = "Custom branding icon for YouTube xisr_holiday"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
